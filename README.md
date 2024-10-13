@@ -1,6 +1,16 @@
 # Responsive-Travel-Agency-Website
 
-Screenshotes
+Frontend Travel Agency Website
+# About
+1- Responsive Design: Built using HTML, CSS, Bootstrap to ensure compatibility across mobile, tablet, and desktop devices.
+2- Interactive Elements: Integrated jQuery for dynamic features like smooth scrolling, interactive forms, and real-time search functionality.
+3- Booking System: Designed intuitive user flows for searching, filtering, and booking travel packages.
+4- Custom Animations: Used Bootstrap and CSS for smooth transitions and hover effects to enhance user experience.
+5- Modular Structure: Organized code with reusable components for better maintainability and scalability.
+6- Cross-browser Compatibility: Tested across multiple browsers (Chrome, Firefox, Safari) for consistent performance.
+
+
+# Screenshotes
 ![Screenshot 2024-10-14 000505](https://github.com/user-attachments/assets/be212380-b31f-4b04-8ae1-61ae5400b61a)
 ![Screenshot 2024-10-14 000523](https://github.com/user-attachments/assets/49005836-8bfe-4f81-b3ee-19b1dadd853a)
 ![Screenshot 2024-10-14 000549](https://github.com/user-attachments/assets/b450edf5-1009-4e7b-92e3-3968e27fe2a7)
