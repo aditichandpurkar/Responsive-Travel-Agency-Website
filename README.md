@@ -3,11 +3,11 @@
 Frontend Travel Agency Website
 # About
 1- Responsive Design: Built using HTML, CSS, Bootstrap to ensure compatibility across mobile, tablet, and desktop devices.<br>
-2- Interactive Elements: Integrated jQuery for dynamic features like smooth scrolling, interactive forms, and real-time search functionality.
-3- Booking System: Designed intuitive user flows for searching, filtering, and booking travel packages.
-4- Custom Animations: Used Bootstrap and CSS for smooth transitions and hover effects to enhance user experience.
-5- Modular Structure: Organized code with reusable components for better maintainability and scalability.
-6- Cross-browser Compatibility: Tested across multiple browsers (Chrome, Firefox, Safari) for consistent performance.
+2- Interactive Elements: Integrated jQuery for dynamic features like smooth scrolling, interactive forms, and real-time search functionality.<br>
+3- Booking System: Designed intuitive user flows for searching, filtering, and booking travel packages.<br>
+4- Custom Animations: Used Bootstrap and CSS for smooth transitions and hover effects to enhance user experience.<br>
+5- Modular Structure: Organized code with reusable components for better maintainability and scalability.<br>
+6- Cross-browser Compatibility: Tested across multiple browsers (Chrome, Firefox, Safari) for consistent performance.<br>
 
 
 # Screenshotes
